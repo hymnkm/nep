@@ -1,5 +1,5 @@
 type 5 C N H Pb I
-n_max 15 12
+n_max 12 12
 basis_size 15 15
 l_max 8 2 1
 neuron 50
