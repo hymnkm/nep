@@ -1,5 +1,5 @@
 type 5 C N H Pb I
-cut_off 8 6
+cutoff 8 6
 n_max 12 12
 basis_size 12 12
 l_max 8 2 1
